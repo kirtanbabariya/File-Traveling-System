@@ -1,0 +1,9 @@
+CREATE notes.txt
+INSERT notes.txt "Hello, world!"
+SNAPSHOT notes.txt "First draft"
+INSERT notes.txt " More text."
+READ notes.txt
+ROLLBACK notes.txt 1
+READ notes.txt
+HISTORY notes.txt
+EXIT
