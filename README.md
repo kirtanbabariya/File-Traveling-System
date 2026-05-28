@@ -1,4 +1,4 @@
-# Time-Travelling File System — COL106 Long Assignment 1
+# Time-Travelling File System 
 
 ## Overview
 An in-memory version-control system inspired by Git, built with custom implementations of:
